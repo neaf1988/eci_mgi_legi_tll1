@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  3 OCT 2018 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  10 OCT 2018 15:10
 entering extended mode
 **./main.tex
 (main.tex
@@ -629,7 +629,7 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 30.
+Package hyperref Info: Option `colorlinks' set `true' on input line 32.
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
 
@@ -651,21 +651,21 @@ LaTeX Info: Redefining \% on input line 30.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 38.
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1
 ppl.fd"
@@ -747,7 +747,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 34.
+Package hyperref Info: Link coloring ON on input line 38.
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\
 nameref.sty"
@@ -759,16 +759,16 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count317
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Info: Redefining \sptext on input line 34.
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \sptext on input line 38.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -778,98 +778,112 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout4 = `main-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
 <Images/1110_logotipo_institucional_vm300px.png, id=35, 308.15125pt x 129.48375
 pt>
 File: Images/1110_logotipo_institucional_vm300px.png Graphic file (type png)
 <use Images/1110_logotipo_institucional_vm300px.png>
 Package pdftex.def Info: Images/1110_logotipo_institucional_vm300px.png  used o
-n input line 38.
+n input line 42.
 (pdftex.def)             Requested size: 154.07524pt x 64.7417pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
-[1
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 43.
+ [1
 
 {C:/Users/fabio.quintero/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
 Images/1110_logotipo_institucional_vm300px.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 58.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 79.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 62.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 70.
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot
 1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 79.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 70.
 
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\om
 lzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 70.
 
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\om
 szplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 79.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 70.
 
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\om
 xzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 79.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 70.
 
 
 ("C:\Users\fabio.quintero\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot
 1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
+
+LaTeX Warning: Citation 'Ley12662008' on page 1 undefined on input line 70.
+
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 92.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 70.
+
+LaTeX Warning: Citation 'Articulo 3$^{\circ }$' on page 1 undefined on input li
+ne 70.
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 70.
+
+LaTeX Warning: Citation 'Definiciones' on page 1 undefined on input line 70.
 
 
-LaTeX Warning: Reference `eq:aperp' on page 1 undefined on input line 92.
+LaTeX Warning: Citation 'Ley12662008' on page 1 undefined on input line 70.
 
 
-LaTeX Warning: Citation 'Cyr' on page 1 undefined on input line 100.
+LaTeX Warning: Citation 'Arti\IeC {\'\i }culo 5' on page 1 undefined on input l
+ine 70.
 
 
-LaTeX Warning: Reference `fig:samplesetup' on page 1 undefined on input line 11
-4.
+LaTeX Warning: Citation 'Definiciones - Dato Semiprivado' on page 1 undefined o
+n input line 70.
 
-
-LaTeX Warning: Reference `fig:exp_plots' on page 1 undefined on input line 114.
-
-
-
-LaTeX Warning: Empty bibliography on input line 143.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \end{document}
-                     [1] [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
+l.83 
+      [1]
+
+LaTeX Warning: Empty bibliography on input line 90.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (main.aux
 LaTeX Info: Redefining \sptext on input line 30.
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B81F005EFCB176890FAF670CDF106AA0;534.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 179C7159E33A693654DB0C922A0CFAC2;523
+(rerunfilecheck)             After:  4A2BAA6E2A5B0FB65D919270FD73C825;432.
 
 LaTeX Warning: There were undefined references.
 
@@ -881,24 +895,30 @@ Package biblatex Warning: Please (re)run BibTeX on the file(s):
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 14726 strings out of 492973
- 244557 string characters out of 3122705
- 542986 words of memory out of 3000000
- 18404 multiletter control sequences out of 15000+200000
- 24847 words of font info for 50 fonts, out of 3000000 for 9000
+ 14755 strings out of 492973
+ 244993 string characters out of 3122705
+ 546998 words of memory out of 3000000
+ 18423 multiletter control sequences out of 15000+200000
+ 38405 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,9n,37p,1151b,1649s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/fabio.quintero/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/ba
-se/8r.enc}<C:/Users/fabio.quintero/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/palatino/uplb8a.pfb><C:/Users/fabio.quintero/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/fabio.quintero/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (3 pages, 65889 bytes).
+ 36i,8n,37p,1179b,1649s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+{C:/Users/fabio.quintero/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc}<C:/Users/fabio.quintero/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/palatino/uplb8a.pfb><C:/Users/fabio.quintero/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/fabio.quintero/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (3 pages, 71796 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 

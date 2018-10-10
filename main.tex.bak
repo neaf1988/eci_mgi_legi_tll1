@@ -16,6 +16,8 @@ headsepline]{article}
 \usepackage[spanish]{babel}
 \usepackage{mathpazo} % Use the Palatino font by default
 
+
+
 \usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
 
 \addbibresource{references/references1.bib} % The filename of the bibliography
@@ -28,6 +30,8 @@ headsepline]{article}
 	filecolor=magenta,     % color of file links
 	urlcolor=blue         
 }
+
+\newcommand{\grad}{$^{\circ}$}
 %++++++++++++++++++++++++++++++++++++++++
 
 
@@ -62,71 +66,20 @@ headsepline]{article}
 
 
 \section{Protección de datos}
-\subsection{Datos públicos vs datos interés público}
+\subsection{Acceso a la información pública}
+Acorde la ley de acceso de transferencia y del derecho a acceso a la información pública \footnote{Ley 1712 de 2014} las UGPP y la DIAN está obligados como se expresa en el Artiículo 5 literal a toda entidad pública a todos los niveles, siendo así se podría solicitar toda la información requerida sin perjucio y/o explicación alguna por parte del requieriente, pero teniendo en cuenta el caso planteado y como se explica en la subsiguiente sección ~\ref{subsec:semiprivados} los datos que la DIAN en calidad de Operador de la información \citep{Ley12662008}\footcite{Articulo 3\grad, Definiciones}, obtuvo esta información pro de cumplir su misión insitucional, es decir garantizar que todos los habitantes del territorio Colombiano cumplan con sus obligaciones tributarias, siendo así la información generada por la UGPP de un titular es de interés de la DIAN para el cumplimiento tributario del mismo a lo cual implica que esta información privada se convierte en semiprivada por definición.\citep{Ley12662008}\footcite{Artiículo 5, Definiciones - Dato Semiprivado}.
+Por lo tanto si los datos en específico que se transfirieron entre estas 2 entidas son semiprovados, deberemos acudir LEY 1712 Artículo 6 literal \textit{c}, \textsc{Información pública clasificada}, donde se espcifica que esta información será pública clasificada por la naturaleza previamente descrita.
+\\
+Podemos concluir que cualquier ciudadano podrá solicitar la información que tenga a bien y que la DIAN y la UGPP con administradores deberán garantizar la privacidad de los titulares de la información y deberan entregar dicha información clasificada sin perjucio de la intimidad de los titulares.
+
+
 \subsection{Datos semiprivados}
-
-
-
-\section{Analysis}
-
-In this section you will need to show your experimental results. Use tables and
-graphs when it is possible. Table~\ref{tbl:bins} is an example.
-
-\begin{table}[ht]
-\begin{center}
-\caption{Every table needs a caption.}
-\label{tbl:bins} % spaces are big no-no withing labels
-\begin{tabular}{|cc|} 
-\hline
-\multicolumn{1}{|c}{$x$ (m)} & \multicolumn{1}{c|}{$V$ (V)} \\
-\hline
-0.0044151 &   0.0030871 \\
-0.0021633 &   0.0021343 \\
-0.0003600 &   0.0018642 \\
-0.0023831 &   0.0013287 \\
-\hline
-\end{tabular}
-\end{center}
-\end{table}
-
-Analysis of equation~\ref{eq:aperp} shows ...
-
-Note: this section can be integrated with the previous one as long as you
-address the issue. Here explain how you determine uncertainties for different
-measured values. Suppose that in the experiment you make a series of
-measurements of a resistance of the wire $R$ for different applied voltages
-$V$, then you calculate the temperature from the resistance using a known
-equation and make a plot  temperature vs. voltage squared. Again suppose that
-this dependence is expected to be linear~\cite{Cyr}, and the proportionality coefficient
-is extracted from the graph. Then what you need to explain is that for the
-resistance and the voltage the uncertainties are instrumental (since each
-measurements in done only once), and they are $\dots$. Then give an equation
-for calculating the uncertainty of the temperature from the resistance
-uncertainty. Finally explain how the uncertainty of the slop of the graph was
-found (computer fitting, graphical method, \emph{etc}.)
-
-If in the process of data analysis you found any noticeable systematic
-error(s), you have to explain them in this section of the report.
-
-It is also recommended to plot the data graphically to efficiently illustrate
-any points of discussion. For example, it is easy to conclude that the
-experiment and theory match each other rather well if you look at
-Fig.~\ref{fig:samplesetup} and Fig.~\ref{fig:exp_plots}.
-
-%\begin{figure}[ht] 
-%  \centering
-%      \includegraphics[width=0.5\columnwidth]{sr_squeezing_vs_detuning}
-
-% some figures do not need to be too wide
-%        \caption{
-%                \label{fig:exp_plots}  
-%                Every plot must have axes labeled.
-%        }
-%\end{figure}
-
-
-\section{Conclusions}
-Here you briefly summarize your findings.
+\label{subsec:semiprivados}
+Teniendo en cuenta el Artículo 13 de la ley de protección de datos personales\footnote{Ley Estatutaria 1581 de 2012}, estas 2 entidades públicas están autorizadas a obtener y consultar la información de las personas que lo entiendan como necesario, por lo tanto no requieren hacer ninguna clase de solicitud, como pedir la autorización del titular de los datos.
+\\
+Si bien cualquier ciudadano tiene el derecho constitucional de que se garantice su intimidad ''Todas las personas tienen derecho a su intimidad personal y familiar y a su  buen nombre, y el Estado debe respetarlos y hacerlos respetar \dots''\footnote{Constitución Política de Colombia, Articulo 15}, la ley de hábeas data\footnote{Ley Estatutaria 1266 de 2008} es garante de regular la información crediticia, comercial y servicios entre otros, entonces el titular de la información acudirá a esta pensando que puede bloquear el intercambio de esta información entre la UGPP y la DIAN, es de aclarar que por normatividad la UGPP debe contar con la autorización del titular para el uso de datos privados, por lo tanto el titular podría pensar que esta autorización es solo para la UGPP y no la DIAN y que estas 2 entidades tiene misiones diferentes y no deberían poder usar los datos sin su autorización, pero la misionalidad de este intercambio de datos es garantizar que cualquier persona con las normas relacionadas al pago de impuestos y no los evada por lo tanto esta ley no impide que estos datos sean intercambiados.
+\\
+Se define un dato como semi privado ''Es semiprivado el dato que no tiene naturaleza íntima, reservada, ni pública y cuyo conocimiento o divulgación puede interesar no sólo a su titular sino a cierto sector o grupo de personas o a la sociedad en general, como el dato financiero y crediticio de actividad comercial o de servicios a que se refiere el Título IV de la presente ley''. Esta definición y lo anterior para hacer cumplir la función de la DIAN y que no exista alguien (incluyendo al titular) que evada impuestos los datos se convertirán en semiprivados.
 
 
 
